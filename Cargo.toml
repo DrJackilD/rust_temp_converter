@@ -1,0 +1,6 @@
+[package]
+name = "temp_converter"
+version = "0.1.1"
+authors = ["Evgeniy Dubovskoy <edubovskoy@gmail.com>"]
+
+[dependencies]
