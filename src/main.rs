@@ -1,6 +1,6 @@
 use std::env;
 
-const VERSION: &'static str = "0.1.1";
+const VERSION: &'static str = env!("CARGO_PKG_VERSION");
 
 const CELSIUS_NOTATION: &'static str = "°C";
 const FAHRENHEIT_NOTATION: &'static str = "°F";
